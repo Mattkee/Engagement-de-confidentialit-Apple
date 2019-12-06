@@ -1,4 +1,4 @@
-# Engagement de confidentialité Apple
+# Engagement de confidentialité
 
 Cette engagement de confidentialité s'applique à l'application Menghuan
 
